@@ -47,8 +47,7 @@ function App(): React.JSX.Element {
       >
         <View style={styles.actionBtn}>
           <Text style={styles.btnText}>Press Me</Text>
-          <Text>{color}</Text>
-        </View>
+       </View>
       </TouchableOpacity>  
     </View>
     </>
